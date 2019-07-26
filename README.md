@@ -18,11 +18,6 @@ Neste projeto utilizaremos a fila FIFO que tem como caracteristica:
 
 Mais informações sobre a SQS FIFO [aqui](https://docs.aws.amazon.com/pt_br/AWSSimpleQueueService/latest/SQSDeveloperGuide/FIFO-queues.html#FIFO-queues-understanding-logic)
 
-Segue abaixo a tela de configuração da tela
-![]("/images/criar-fila.jpg")
-
-Após este tela, clicar em "Criar Fila" e pegar a URL de configuração.
-
 ***Importante: Você deve editar preencher as suas chaves de acesso ano arquivo config.json.***
 
 ## Executar ##
